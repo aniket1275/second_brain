@@ -4,13 +4,15 @@ title: My Second Brain
 # Theory Notes
 
 - [[Difference between schema vs model]]
-- [[Difference between api vs protocol vs standards]]
+- [[Difference between protocol vs standards]]
 - [[File Descriptor]]
 - [[Functional Dependency in Normalization]]
 - [[Static Vs Dynamic Linking]]
-- [[what is api]]
-- [[what is protocol]]
+- [[What is API]]
+- [[Forward and Reverse Proxy]]
+- [[Database Schema]]
 - [[Why Buffers are used]]
-
+- [[What is Tunneling in Computer Networks]]
+- [[NAT vs Tunneling in Networking]]
 
 # Project Notes
